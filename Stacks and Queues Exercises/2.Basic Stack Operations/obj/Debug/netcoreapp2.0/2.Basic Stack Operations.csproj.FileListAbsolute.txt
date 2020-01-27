@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\bin\Debug\netcoreapp2.0\2.Basic Stack Operations.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\bin\Debug\netcoreapp2.0\2.Basic Stack Operations.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\bin\Debug\netcoreapp2.0\2.Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\bin\Debug\netcoreapp2.0\2.Basic Stack Operations.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\bin\Debug\netcoreapp2.0\2.Basic Stack Operations.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\obj\Debug\netcoreapp2.0\2.Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\obj\Debug\netcoreapp2.0\2.Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\obj\Debug\netcoreapp2.0\2.Basic Stack Operations.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\obj\Debug\netcoreapp2.0\2.Basic Stack Operations.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\obj\Debug\netcoreapp2.0\2.Basic Stack Operations.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\2.Basic Stack Operations\obj\Debug\netcoreapp2.0\2.Basic Stack Operations.csprojAssemblyReference.cache

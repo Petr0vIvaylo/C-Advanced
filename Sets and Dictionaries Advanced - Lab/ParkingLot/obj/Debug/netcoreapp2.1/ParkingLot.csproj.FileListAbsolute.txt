@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\bin\Debug\netcoreapp2.1\ParkingLot.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\ParkingLot\obj\Debug\netcoreapp2.1\ParkingLot.pdb

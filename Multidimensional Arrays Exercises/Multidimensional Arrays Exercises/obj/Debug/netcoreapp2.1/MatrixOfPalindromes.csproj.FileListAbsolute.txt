@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\obj\Debug\netcoreapp2.1\MatrixOfPalindromes.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\obj\Debug\netcoreapp2.1\MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\obj\Debug\netcoreapp2.1\MatrixOfPalindromes.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\obj\Debug\netcoreapp2.1\MatrixOfPalindromes.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\bin\Debug\netcoreapp2.1\MatrixOfPalindromes.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\bin\Debug\netcoreapp2.1\MatrixOfPalindromes.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\bin\Debug\netcoreapp2.1\MatrixOfPalindromes.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\bin\Debug\netcoreapp2.1\MatrixOfPalindromes.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\bin\Debug\netcoreapp2.1\MatrixOfPalindromes.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\obj\Debug\netcoreapp2.1\MatrixOfPalindromes.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Exercises\Multidimensional Arrays Exercises\obj\Debug\netcoreapp2.1\MatrixOfPalindromes.pdb

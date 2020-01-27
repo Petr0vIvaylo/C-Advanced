@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb

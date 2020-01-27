@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.pdb

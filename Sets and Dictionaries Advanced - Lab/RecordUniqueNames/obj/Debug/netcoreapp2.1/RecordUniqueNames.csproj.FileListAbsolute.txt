@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.pdb

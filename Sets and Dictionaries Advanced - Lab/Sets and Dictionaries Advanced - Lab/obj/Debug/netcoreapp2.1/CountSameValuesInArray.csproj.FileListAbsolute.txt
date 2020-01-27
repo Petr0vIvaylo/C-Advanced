@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\netcoreapp2.1\CountSameValuesInArray.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\netcoreapp2.1\CountSameValuesInArray.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\netcoreapp2.1\CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\netcoreapp2.1\CountSameValuesInArray.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\netcoreapp2.1\CountSameValuesInArray.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\netcoreapp2.1\CountSameValuesInArray.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\netcoreapp2.1\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\netcoreapp2.1\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\netcoreapp2.1\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\netcoreapp2.1\CountSameValuesInArray.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\netcoreapp2.1\CountSameValuesInArray.pdb

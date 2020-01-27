@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixOfPalindromes", "Multidimensional Arrays Exercises\MatrixOfPalindromes.csproj", "{A031F3E0-F935-4754-AC72-6E3014F79236}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{510C4CE1-81D9-466F-B064-8F31680BA419}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Squares in Matrix", "Squares in Matrix\Squares in Matrix.csproj", "{AE6BBF83-7500-4E75-B48C-799E24AEEDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{6DE7DD1D-36CC-4D80-9A19-19EA23B054B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubik’sMatrix", "Rubik’sMatrix\Rubik’sMatrix.csproj", "{CE5993F0-996E-4979-A784-5B58B1C75220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A031F3E0-F935-4754-AC72-6E3014F79236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A031F3E0-F935-4754-AC72-6E3014F79236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A031F3E0-F935-4754-AC72-6E3014F79236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A031F3E0-F935-4754-AC72-6E3014F79236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510C4CE1-81D9-466F-B064-8F31680BA419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510C4CE1-81D9-466F-B064-8F31680BA419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510C4CE1-81D9-466F-B064-8F31680BA419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510C4CE1-81D9-466F-B064-8F31680BA419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6BBF83-7500-4E75-B48C-799E24AEEDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6BBF83-7500-4E75-B48C-799E24AEEDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6BBF83-7500-4E75-B48C-799E24AEEDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6BBF83-7500-4E75-B48C-799E24AEEDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE7DD1D-36CC-4D80-9A19-19EA23B054B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE7DD1D-36CC-4D80-9A19-19EA23B054B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE7DD1D-36CC-4D80-9A19-19EA23B054B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE7DD1D-36CC-4D80-9A19-19EA23B054B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5993F0-996E-4979-A784-5B58B1C75220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5993F0-996E-4979-A784-5B58B1C75220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5993F0-996E-4979-A784-5B58B1C75220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5993F0-996E-4979-A784-5B58B1C75220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA027999-2129-4A4D-8F06-AF93B9083A4C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\bin\Debug\netcoreapp2.0\4. Matching Brackets.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\bin\Debug\netcoreapp2.0\4. Matching Brackets.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\bin\Debug\netcoreapp2.0\4. Matching Brackets.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\bin\Debug\netcoreapp2.0\4. Matching Brackets.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\bin\Debug\netcoreapp2.0\4. Matching Brackets.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\obj\Debug\netcoreapp2.0\4. Matching Brackets.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\obj\Debug\netcoreapp2.0\4. Matching Brackets.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\obj\Debug\netcoreapp2.0\4. Matching Brackets.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\obj\Debug\netcoreapp2.0\4. Matching Brackets.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\obj\Debug\netcoreapp2.0\4. Matching Brackets.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\4. Matching Brackets\obj\Debug\netcoreapp2.0\4. Matching Brackets.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.csprojAssemblyReference.cache

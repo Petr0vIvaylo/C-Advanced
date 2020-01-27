@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.pdb

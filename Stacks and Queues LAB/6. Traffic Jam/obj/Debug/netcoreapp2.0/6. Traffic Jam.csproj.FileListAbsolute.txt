@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\bin\Debug\netcoreapp2.0\6. Traffic Jam.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\bin\Debug\netcoreapp2.0\6. Traffic Jam.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\bin\Debug\netcoreapp2.0\6. Traffic Jam.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\bin\Debug\netcoreapp2.0\6. Traffic Jam.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\bin\Debug\netcoreapp2.0\6. Traffic Jam.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\obj\Debug\netcoreapp2.0\6. Traffic Jam.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\obj\Debug\netcoreapp2.0\6. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\obj\Debug\netcoreapp2.0\6. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\obj\Debug\netcoreapp2.0\6. Traffic Jam.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\obj\Debug\netcoreapp2.0\6. Traffic Jam.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues LAB\6. Traffic Jam\obj\Debug\netcoreapp2.0\6. Traffic Jam.pdb

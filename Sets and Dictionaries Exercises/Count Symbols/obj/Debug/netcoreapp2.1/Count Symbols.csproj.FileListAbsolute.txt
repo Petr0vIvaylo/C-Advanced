@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\bin\Debug\netcoreapp2.1\Count Symbols.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\bin\Debug\netcoreapp2.1\Count Symbols.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\bin\Debug\netcoreapp2.1\Count Symbols.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\bin\Debug\netcoreapp2.1\Count Symbols.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\bin\Debug\netcoreapp2.1\Count Symbols.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\obj\Debug\netcoreapp2.1\Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\obj\Debug\netcoreapp2.1\Count Symbols.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\obj\Debug\netcoreapp2.1\Count Symbols.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\obj\Debug\netcoreapp2.1\Count Symbols.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Exercises\Count Symbols\obj\Debug\netcoreapp2.1\Count Symbols.pdb

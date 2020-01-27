@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\bin\Debug\netcoreapp2.1\Poisonous Plants.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Stacks and Queues Exercises\Poisonous Plants\obj\Debug\netcoreapp2.1\Poisonous Plants.pdb

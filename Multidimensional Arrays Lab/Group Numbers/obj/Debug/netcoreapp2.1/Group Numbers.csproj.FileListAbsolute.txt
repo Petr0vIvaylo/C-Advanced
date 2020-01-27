@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\bin\Debug\netcoreapp2.1\Group Numbers.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\bin\Debug\netcoreapp2.1\Group Numbers.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\bin\Debug\netcoreapp2.1\Group Numbers.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\bin\Debug\netcoreapp2.1\Group Numbers.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\bin\Debug\netcoreapp2.1\Group Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\obj\Debug\netcoreapp2.1\Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\obj\Debug\netcoreapp2.1\Group Numbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\obj\Debug\netcoreapp2.1\Group Numbers.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\obj\Debug\netcoreapp2.1\Group Numbers.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\obj\Debug\netcoreapp2.1\Group Numbers.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Multidimensional Arrays Lab\Group Numbers\obj\Debug\netcoreapp2.1\Group Numbers.csprojAssemblyReference.cache

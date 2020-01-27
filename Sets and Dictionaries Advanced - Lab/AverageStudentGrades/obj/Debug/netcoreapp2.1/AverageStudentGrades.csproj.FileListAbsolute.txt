@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.pdb
